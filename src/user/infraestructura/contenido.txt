@@ -1,0 +1,6 @@
+en la parte de infraestructura se encarga de la interaccion a servicios a externos
+pero que servicios pueden ir aca 
+
+-conexion a base de datos
+-conexion a una api externa
+-algun servicio externo o software

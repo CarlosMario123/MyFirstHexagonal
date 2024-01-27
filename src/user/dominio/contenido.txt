@@ -1,0 +1,13 @@
+en la capa de dominio iran las reglas de negocio 
+archivos como entidades que puede ser como una interface
+
+
+DTO, que significa "Data Transfer Object"
+ (Objeto de Transferencia de Datos en español), es un patrón de diseño utilizado para 
+ transportar datos entre diferentes capas de una aplicación. Su propósito principal es encapsular
+ y transferir datos entre componentes 
+del sistema sin exponer la lógica interna y la estructura de las clases subyacentes.
+
+Los DTOs se utilizan para pasar información entre capas de la aplicación, como entre la capa de
+ aplicación y la capa de 
+presentación, o entre la capa de aplicación y la capa de infraestructura.

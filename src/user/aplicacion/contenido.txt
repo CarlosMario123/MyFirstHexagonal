@@ -1,0 +1,3 @@
+podemos poner los casos de uso para nuestra aplicacion aca ira la logica de negocio
+
+por ejemplo crear usuarios,eliminar usuario etc...
